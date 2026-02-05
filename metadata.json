@@ -1,0 +1,7 @@
+{
+  "name": "Memory Assistant",
+  "description": "A personal memory assistant web application to help users remember where they placed their personal items using photos and voice input.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
